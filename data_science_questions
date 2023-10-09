@@ -1,0 +1,50 @@
+Questions to ask as a data scientist
+
+Question 1
+"How many data engineers are supporting the DS team?"  If the answer is something other than 0 follow up with, "Are these data engineers devoted specifically to working with DS or do they support multiple teams?"
+
+Why ask question 1
+This is perhaps the most important question you can ask as a data scientist.  If the answer is zero you should be EXTREMELY wary about joining the company as you will become the defacto data engineer which leads to a lot of problems.
+With the follow-up, you’re trying to find out if the data engineers at the company will actually have time to help you or will projects for other teams always take priority.  
+It’s unlikely that any company smaller than 300-500 people can fully dedicate data engineers to data science. 
+However, if the company is larger than that and is telling you that data science is critical to its success, it should have some dedicated data engineers.
+
+Question 2
+"How many data scientists are on the team?"
+
+Why ask question 2
+Do not be the first data scientist at a company if you are early in your career (< 3 years experience).  I’ve seen it lead to disaster over and over.
+
+Question 3
+"Will I be primarily focused on delivering customer-facing or internally-facing data products?"
+
+If the answer is customer-facing, ask follow-ups like "Tell me about your user event data."  "How are the products instrumented?"
+"What are some critical metrics you already track that you want to improve using data science?"
+
+If the answer is internal-facing, ask something like, "Tell me about your data warehouse."  "Is the internal data I’ll be utilizing in the data warehouse?"  
+"What are some of the most important KPIs or metrics from the teams I’ll be working with?"
+
+Why ask question 3
+The answers here will tell you a lot about what you will be doing and, importantly, how prepared the company is for that type of work.
+Internal-facing data science work versus customer-facing data science work both have a mix of pros and cons too extensive to list here.  
+If they don’t have well-instrumented products and/or don’t even measure the metrics they want improved, your ability to deliver value is going to be greatly impaired.
+
+Question 4
+"How many ML models are actively in use at the company today?" and/or "Do you know how many inferences they serve per day?"
+
+Why ask question 4
+Putting models into actual scale usage is the hardest part of data science for a lot of complex technical and non-technical reasons.
+Ideally, any company that wants ML models from you should have some experience deploying such models.  
+It’s not a deal breaker if they don't but higher numbers in the answer suggest it will be easier for you to deliver value.
+If the company has little experience building and shipping models AND they have no data engineers (see question 1) the data science role will be fraught with danger.
+
+Question 5
+"Can you share the employee satisfaction scores for the data science team for the past 2 or 3 quarters?"
+
+Why ask question 5
+This question might get you some weird looks, but in my opinion, any company that cares about employees at all should have some measure of employee satisfaction. 
+If they aren’t measuring this, how do they plan to even improve or at least maintain it? 
+If they do measure it but can’t reveal that information in an interview, that is reasonable and hard to argue with.  
+In that case, just ask follow-ups like “How often do you measure employee satisfaction?”
+
+
