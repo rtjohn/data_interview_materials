@@ -1,0 +1,45 @@
+Questions to ask as a data engineer
+
+Question 1
+
+"What stakeholders does the team support?" or "Which teams do we provide services to?"
+
+Why ask question 1
+First, there isn't really a right answer to this question, but you want to ask it to understand the job you'll be doing. 
+The role might be very narrow and support only a product team with getting data-heavy features shipped and performant.  
+Alternatively, the role might be very broad providing data infrastructure services to any team in the company that needs them.
+A narrow data engineering role might be great if you want to focus on a particular skill or area, but it also might become confining and boring.
+A broad data engineering role might be great for tackling lots of types of problems, but you might feel unfocused or pulled into tons of small low-impact projects.  
+Interpreting their response all depends on what you want to be doing as a data engineer.  
+
+Question 2
+"Do you use infrastructure as code such as terraform?"
+  
+Why ask question 2
+The correct answer is "yes".  Anything else means you will be spending a lot of time sighing in exasperation and wishing you could get the team to adopt IAC.
+
+Question 3  
+"Is there an existing data warehouse or lake I'll be building pipelines to?  If so, roughly what scale is it: Terabyte, Petabyte?"
+
+Why ask question 3
+You're trying to get a sense of where this company is on its data journey.  
+An existing petabyte-scale data lake or warehouse, while no guarantee of a great job, certainly suggests the company is willing to invest in collecting and housing data.
+Then again, the company might be just now ready to make such investments and need you to get them started, but it's better to clearly understand what you are walking into.
+  
+Question 4  
+"Tell me about the infrastructure I'll be working on. Are there any architectural diagrams you can show me?  Are there separate environments?"
+
+Why ask question 4
+You want to go beyond just a list of tools in their stack to understand how things are being used.  
+For example, "S3 and airflow" could be the foundational stack of a horribly designed infrastructure or an extremely well-designed one.
+You'll need to understand more about what has been built and what best data engineering practices are followed to understand the quality of the team.
+  
+
+Question 5
+"Can you share the employee satisfaction scores for the data engineering team for the past 2 or 3 quarters?"
+
+Why ask question 5
+This question might get you some weird looks, but in my opinion, any company that cares about employees at all should have some measure of employee satisfaction. 
+If they aren’t measuring this, how do they plan to even improve or at least maintain it? 
+If they do measure it but can’t reveal that information in an interview, that is reasonable and hard to argue with.  
+In that case, just ask follow-ups like “How often do you measure employee satisfaction?”
