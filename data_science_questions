@@ -4,10 +4,8 @@ Question 1
 "How many data engineers are supporting the DS team?"  If the answer is something other than 0 follow up with, "Are these data engineers devoted specifically to working with DS or do they support multiple teams?"
 
 Why ask question 1
-This is perhaps the most important question you can ask as a data scientist.  If the answer is zero you should be EXTREMELY wary about joining the company as you will become the defacto data engineer which leads to a lot of problems.
-With the follow-up, you’re trying to find out if the data engineers at the company will actually have time to help you or will projects for other teams always take priority.  
-It’s unlikely that any company smaller than 300-500 people can fully dedicate data engineers to data science. 
-However, if the company is larger than that and is telling you that data science is critical to its success, it should have some dedicated data engineers.
+This is perhaps the most important question you can ask as a data scientist.  If the answer is zero you should be EXTREMELY wary about joining the company as you will become the defacto data engineer which leads to a lot of problems. 
+With the follow-up, you’re trying to find out if the data engineers at the company will actually have time to help you or will projects for other teams always take priority. It’s unlikely that any company smaller than 300-500 people can fully dedicate data engineers to data science. However, if the company is larger than that and is telling you that data science is critical to its success, it should have some dedicated data engineers.
 
 Question 2
 "How many data scientists are on the team?"
